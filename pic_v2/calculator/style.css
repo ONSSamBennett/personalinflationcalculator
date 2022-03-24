@@ -142,7 +142,7 @@ input[type="text"], input[type="number"], button, select {
   border: 2px solid #206095;
   color: #206095;
   font-size: 16px;
-  line-height: 0;
+  /*line-height: 0;*/
   cursor: pointer;
   pointer-events: all;
 }
@@ -260,6 +260,7 @@ button.socialbutton {
   border: 2px solid #206095;
   color: #206095;
   background-color: #fff;
+  -webkit-appearance:none;
 }
 
 /* ::before, ::after {

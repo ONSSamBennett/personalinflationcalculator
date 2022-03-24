@@ -621,10 +621,6 @@ input[type=checkbox], input[type=radio] {
   border: 0;
   font-size: 1.3em; }
 
-.dropdown{
-  -webkit-appearance:none;
-}
-
 div #dropdown3 .chosen-container-single .chosen-single div b {
   display: none !important; }
 
